@@ -4,6 +4,9 @@ return {
 
     Key = "rewiksl4qicsdnl125fzcn",
     Hwid = "2342"
+
+    Key = "ijl34w8nuyhrlmcpqsfio",
+    Hwid = "2342"
 }
 
 {
