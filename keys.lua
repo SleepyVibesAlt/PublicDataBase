@@ -11,3 +11,8 @@ return {
     Key = ray81bor6alrynt3w8ll3c,
     Hwid = 2342
 }}
+
+{
+    Key = vvaqoh9xr4c5vaqo57lie
+    Hwid = 2342
+}
