@@ -1,6 +1,9 @@
 return {
     ["Whitelist Data"] = {
     }
+
+    Key = "rewiksl4qicsdnl125fzcn",
+    Hwid = "2342"
 }
 
 {
