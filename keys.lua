@@ -6,4 +6,8 @@ return {
             Hwid = "your_generated_hwid"
         }
     }
-}
+,
+{
+    Key = ray81bor6alrynt3w8ll3c,
+    Hwid = 2342
+}}
